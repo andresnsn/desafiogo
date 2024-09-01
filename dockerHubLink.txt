@@ -1,0 +1,3 @@
+Link da imagem: https://hub.docker.com/repository/docker/andresnsn/desafiogofullcycleimagem2mb/general
+
+Comando para rodar: docker run docker run andresnsn/desafiogofullcycleimagem2mb
